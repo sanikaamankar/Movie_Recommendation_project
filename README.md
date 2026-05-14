@@ -2,7 +2,7 @@
 
 # 🎬 Movie Recommendation System
 
-Live Project Link : https://last-movie-recommend-lh6xr2xlnpwxjt8zfadtsc.streamlit.app/
+Live Project Link : https://movierecommendationproject-sanika.streamlit.app/
 
 A **content-based Movie Recommendation System** built using **Python and Streamlit**.
 The app recommends similar movies and displays their **posters** using the **TMDB API**.
